@@ -1,0 +1,166 @@
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v0.4\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.exe.config
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v0.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v0.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.xml
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v0.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v0.4\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS-DATABASE.accdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v0.4\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v0.4\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v0.4\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.xml
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v0.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.about.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v0.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_schedule_redraw.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v0.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_schedule.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v0.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_section_redraw.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v0.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_section.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v0.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_students.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v0.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.Locate.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v0.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.logn_frm.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v0.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.main.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v0.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.map.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v0.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v0.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.splash.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v0.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.vbproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\r1 - guards\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.exe.config
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\r1 - guards\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\r1 - guards\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.xml
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\r1 - guards\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\r1 - guards\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS-DATABASE.accdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\r1 - guards\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\r1 - guards\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\r1 - guards\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.xml
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\r1 - guards\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.about.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\r1 - guards\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_schedule_redraw.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\r1 - guards\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_schedule.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\r1 - guards\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_section_redraw.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\r1 - guards\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_section.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\r1 - guards\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_students.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\r1 - guards\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.Locate.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\r1 - guards\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.logn_frm.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\r1 - guards\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.main.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\r1 - guards\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.map.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\r1 - guards\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\r1 - guards\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.splash.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\r1 - guards\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.vbproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\New folder\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.exe.config
+C:\Users\Asus\Desktop\New folder\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.exe
+C:\Users\Asus\Desktop\New folder\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.xml
+C:\Users\Asus\Desktop\New folder\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.pdb
+C:\Users\Asus\Desktop\New folder\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS-DATABASE.accdb
+C:\Users\Asus\Desktop\New folder\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.exe
+C:\Users\Asus\Desktop\New folder\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.pdb
+C:\Users\Asus\Desktop\New folder\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.xml
+C:\Users\Asus\Desktop\New folder\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.about.resources
+C:\Users\Asus\Desktop\New folder\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_schedule_redraw.resources
+C:\Users\Asus\Desktop\New folder\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_schedule.resources
+C:\Users\Asus\Desktop\New folder\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_section_redraw.resources
+C:\Users\Asus\Desktop\New folder\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_section.resources
+C:\Users\Asus\Desktop\New folder\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_students.resources
+C:\Users\Asus\Desktop\New folder\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.Locate.resources
+C:\Users\Asus\Desktop\New folder\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.logn_frm.resources
+C:\Users\Asus\Desktop\New folder\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.main.resources
+C:\Users\Asus\Desktop\New folder\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.map.resources
+C:\Users\Asus\Desktop\New folder\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.Resources.resources
+C:\Users\Asus\Desktop\New folder\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.splash.resources
+C:\Users\Asus\Desktop\New folder\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.vbproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.2\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.exe.config
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.2\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.2\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.xml
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.2\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.2\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS-DATABASE.accdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.2\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.2\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.2\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.xml
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.2\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.about.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.2\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_schedule_redraw.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.2\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_schedule.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.2\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_section_redraw.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.2\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_section.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.2\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_students.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.2\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.Locate.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.2\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.logn_frm.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.2\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.main.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.2\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.map.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.2\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.2\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.splash.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.2\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.vbproj.GenerateResource.Cache
+C:\Users\Asus\Downloads\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.exe.config
+C:\Users\Asus\Downloads\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.exe
+C:\Users\Asus\Downloads\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.xml
+C:\Users\Asus\Downloads\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.pdb
+C:\Users\Asus\Downloads\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS-DATABASE.accdb
+C:\Users\Asus\Downloads\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.exe
+C:\Users\Asus\Downloads\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.pdb
+C:\Users\Asus\Downloads\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.xml
+C:\Users\Asus\Downloads\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.about.resources
+C:\Users\Asus\Downloads\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_schedule_redraw.resources
+C:\Users\Asus\Downloads\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_schedule.resources
+C:\Users\Asus\Downloads\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_section_redraw.resources
+C:\Users\Asus\Downloads\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_section.resources
+C:\Users\Asus\Downloads\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_students.resources
+C:\Users\Asus\Downloads\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.Locate.resources
+C:\Users\Asus\Downloads\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.logn_frm.resources
+C:\Users\Asus\Downloads\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.main.resources
+C:\Users\Asus\Downloads\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.map.resources
+C:\Users\Asus\Downloads\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.Resources.resources
+C:\Users\Asus\Downloads\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.splash.resources
+C:\Users\Asus\Downloads\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.vbproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.4\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS-DATABASE.accdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.4\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.exe.config
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.4\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.4\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.4\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.xml
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.about.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_schedule_redraw.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_schedule.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_section_redraw.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_section.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_students.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.Locate.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.logn_frm.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.main.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.map.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.splash.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.vbproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.xml
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\v1.4\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.exe.config
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.xml
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.about.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_schedule_redraw.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_schedule.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_section_redraw.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_section.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_students.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.Locate.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.logn_frm.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.main.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.map.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.splash.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.vbproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.xml
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.pdb
+C:\Users\Asus\Desktop\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.exe.config
+C:\Users\Asus\Desktop\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.exe
+C:\Users\Asus\Desktop\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.xml
+C:\Users\Asus\Desktop\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.pdb
+C:\Users\Asus\Desktop\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.exe
+C:\Users\Asus\Desktop\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.pdb
+C:\Users\Asus\Desktop\LNHS-SHS-SLS\LNHS-SHS-SLS\bin\Debug\LNHS-SHS-SLS.xml
+C:\Users\Asus\Desktop\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.about.resources
+C:\Users\Asus\Desktop\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_schedule_redraw.resources
+C:\Users\Asus\Desktop\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_schedule.resources
+C:\Users\Asus\Desktop\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_section_redraw.resources
+C:\Users\Asus\Desktop\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_section.resources
+C:\Users\Asus\Desktop\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.encode_students.resources
+C:\Users\Asus\Desktop\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.Locate.resources
+C:\Users\Asus\Desktop\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.logn_frm.resources
+C:\Users\Asus\Desktop\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.main.resources
+C:\Users\Asus\Desktop\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.map.resources
+C:\Users\Asus\Desktop\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.Resources.resources
+C:\Users\Asus\Desktop\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS_SHS_SLS.splash.resources
+C:\Users\Asus\Desktop\LNHS-SHS-SLS\LNHS-SHS-SLS\obj\Debug\LNHS-SHS-SLS.vbproj.GenerateResource.Cache
